@@ -1,7 +1,7 @@
 ## Online Keyboard Tester ⌨️
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mostafa-Abbasi/KeyboardTester/main/img/demo.gif" alt="App Demo GIF">
+  <img src="https://raw.githubusercontent.com/fptf8fpt2018/KeyboardTester/main/img/demo.gif" alt="App Demo GIF">
 </p>
 
 <br/><br/>
@@ -13,7 +13,7 @@ Welcome to the Online Keyboard Tester! This interactive web application is desig
 
 ## How to Use 🚀
 
-Just head over to **[Online Keyboard Tester Website](https://mostafa-abbasi.github.io/KeyboardTester)** and start pressing those keys! It will instantly respond to your every keystroke.
+Just head over to **[Online Keyboard Tester Website](https://fptf8fpt2018.github.io/KeyboardTester)** and start pressing those keys! It will instantly respond to your every keystroke.
 <br/><br/>
 
 ## Features 🌟
@@ -50,7 +50,7 @@ If you want to run this project locally or contribute to its development, follow
 **1.** Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/mostafa-abbasi/KeyboardTester.git
+  git clone https://github.com/fptf8fpt2018/KeyboardTester.git
 ```
 
 **2.** Open the index.html file in your web browser.
